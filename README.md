@@ -27,7 +27,9 @@ Zenodo DOI: [10.5281/zenodo.15278116](https://doi.org/10.5281/zenodo.15278116)
 This repository is timestamped and public to confirm intellectual property ownership, scientific originality, and licensing availability.
 
 Licensing and Contact
-This work is available for licensing discussions, partnership inquiries, and clinical collaborations.
+This work is released under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+Commercial use requires explicit licensing from the author. Contact ecssignalling@gmail.com for partnership or licensing discussions.
+
 
 Contact: Anwar Mohamed  
 Email: ecssignalling@gmail.com  
